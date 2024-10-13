@@ -1,0 +1,10 @@
+Error 0x80070002
+EventID 12240 & EventID 15268
+Microsoft-Windows-Hyper-V-VMMS
+
+stop VMMS
+
+Delete objects like GUID {} in the following directories:
+
+C:\ProgramData\Microsoft\Windows\Hyper-V
+C:\ProgramData\Microsoft\Windows\Virtual Hard Disks
